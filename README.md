@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadrack04
-- 👀 I’m interested in HTML||CSS||JavaScript||Nodejs||C#
+- 👀 I’m interested in HTML||CSS||JavaScript||Nodejs||C#||PHP
 - 🌱 I’m currently learning @alx_africa
 - 💞️ I’m looking to collaborate on any related project
 - 📫 Reach me twitter @shadrackjames04.
